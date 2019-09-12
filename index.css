@@ -1,0 +1,52 @@
+*{
+	padding: 0;
+}
+#botao{
+	font-size: 15px;
+	text-align: center;
+	width: 67px;
+	height: 30px;
+	margin-bottom: 0;
+	margin-top: 40px;
+	background-color: #6005f2;
+	border-style: none;
+	color: white;
+}
+#box{
+	margin-left: 280px;
+	margin-right: 280px;
+	margin-top: 70px;
+	padding-top: 130px;
+	padding-bottom: 10px;
+	text-align: center;
+	background-color: rgb(23, 194, 160, 0.2);
+}
+#v1{
+	color: white;
+	background-color: #6005f2;
+	border-color: blue;
+	height: 25px;
+}
+#v2{
+	color: white;
+	background-color: #6005f2;
+	border-color: blue; 
+	height: 25px;
+}
+#resultado{
+	margin-top: 70px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+body{
+	background-image: url("fundo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	padding-top: 10px;
+	font-size: 50px;
+	color: #6005f2;
+}
